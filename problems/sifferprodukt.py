@@ -1,3 +1,5 @@
+# https://open.kattis.com/problems/sifferprodukt
+
 from operator import mul
 from functools import reduce
 

@@ -1,3 +1,5 @@
+# https://open.kattis.com/problems/smil
+
 row = input()
 for smil in (":)", ";)", ":-)", ";-)"):
     start = 0
